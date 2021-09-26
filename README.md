@@ -13,11 +13,6 @@ A recommendation engine that would suggest articles, users and article titles in
 The project is offered by Udacity. The objective of this project is to make a recommendation engine using the IBM-watson user-article interaction data. Rank-based recommendation and collaborative filtering were used to make recommendation of articles and article_ids. 
 
 
-<img src="https://render.githubusercontent.com/render/math?math=IRR=\frac{purch_{treat}}{cust_{treat}} - \frac{purch_{ctrl}}{cust_{ctrl}}">
-
-
-
-<img src="https://render.githubusercontent.com/render/math?math=NIR = (10\cdot purch_{treat} - 0.15 \cdot cust_{treat}) - 10 \cdot purch_{ctrl}">
 
 ## File Description<a name="files"></a>
 
